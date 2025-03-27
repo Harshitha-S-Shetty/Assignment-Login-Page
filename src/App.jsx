@@ -1,5 +1,5 @@
 import './App.css'
-import Loginpage from './components/loginpage'
+import Loginpage from './components/Loginpage'
 
 
 
